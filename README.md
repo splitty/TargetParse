@@ -49,15 +49,23 @@ for (Element e : wpPic) {
 String wpSource = wpReplace.replace("&ssl=1", ".png");
 filePath = Path + wpReplace;
 ```
+In the screenshot below, I left in the un-altered scraped files and the replaced name files are on the right of each.
+![Screenshot of two different file types being grabbed from WordPress](https://github.com/splitty/TargetParse/raw/master/screenshots/wordpressExample.JPG)
+
 ### Examples
+Some real world examples of TargetParse in action with the out of the box image downloader.
+
 #### Runestone.org
 Runestone.org is home to the AFA, a white supremacist organization that was the inspiration for this tool.  Grabbing email addresses, pictures, and personal information from the website using TargetParse.
+![Images pulled from Runestone contact page](https://github.com/splitty/TargetParse/raw/master/screenshots/contractExample.JPG)
 
 #### Cnet.com
 Grabbing all of the news headline images at once.
+![Cnet home page parse.](https://github.com/splitty/TargetParse/raw/master/screenshots/cnet.JPG)
 
 ### Shutterstock
 Large image website.
+![Shutter stock example.](https://github.com/splitty/TargetParse/raw/master/screenshots/shutter.JPG)
 
 ### Downloads
 TargetParse is available in both a portable EXE and JAR file in addition to the uncompiled source code.  
