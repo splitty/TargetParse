@@ -61,8 +61,8 @@ Large image website.
 
 ### Downloads
 TargetParse is available in both a portable EXE and JAR file in addition to the uncompiled source code.  
-[The EXE can be found here](https://github.com/splitty/TargetParse/tree/master/Executable)
+[The EXE can be found here](https://github.com/splitty/TargetParse/raw/master/Executable/TargetParse.exe)
 
 and
 
-[The JAR can be found here](https://github.com/splitty/TargetParse/tree/master/JARBuild)
+[The JAR can be found here](https://github.com/splitty/TargetParse/tree/master/JARBuild/TargetParse_Portable.jar)
