@@ -1,6 +1,8 @@
 # TargetParse
 Targeted HTML tag parser and scraper.
 
+[Link to article where this tool is created!](http://138.197.96.192/)
+
 [![LICENSE MIT](https://img.shields.io/badge/license-MIT-blue.svg)](hhttps://github.com/splitty/TargetParse/blob/master/LICENSE)
 ### Summary
 TargetParse is an easy to use web scraper and HTML tag parser that functions on the JSoup repository.  It is set up out of the box to parse and scrape images from websites but can be changed and modified to scrape entire pages as well as specified tags from live websites.
